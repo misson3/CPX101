@@ -1,6 +1,6 @@
 ## Welcome to CPX101
 
-### CPX101-1 memo: July31, 2020
+### CPX101-1: Introduction: July31, 2020
 
 #### 1. Adafruit, open sourceについて
 
@@ -15,10 +15,6 @@
   - センサー
   - 入力装置
   - 出力装置
-  
-  ![](fig_resources/Annotation 2020-07-25 135948.jpg)
-
-（Getting Started with Adafruit Circuit Playground Expressより）
 
 #### 3. プログラムに使える言語について
 
@@ -44,3 +40,8 @@
   - [日本の販売サイト](https://booth.pm/ja/items/1575764)
   - [Adafruitのサイト](https://www.adafruit.com/product/4024)
 
+## 予告編
+
+### CPX101-2: CircuitPython with Mu editor: Date TBD
+
+### CPX101-3: C++ with Arduino IDE: Date TBD
