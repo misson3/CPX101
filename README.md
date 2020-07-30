@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Welcome to CPX101
 
-You can use the [editor on GitHub](https://github.com/misson3/CPX101/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### CPX101-1 memo: July31, 2020
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 1. Adafruit, open sourceについて
 
-### Markdown
+- [Adafruitのページ](https://www.adafruit.com/)
+- - [AdafruitのLearningページ（Circuit Playground Expressで検索した結果）](https://learn.adafruit.com/search?q=circuit%2520playground%2520express)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 2. CPX microcontroller
 
-```markdown
-Syntax highlighted code block
+- ボードの上にあるものたち
 
-# Header 1
-## Header 2
-### Header 3
+  - プロセッサーとメモリー
+  - センサー
+  - 入力装置
+  - 出力装置
+  
+  ![](fig_resources/Annotation 2020-07-25 135948.jpg)
 
-- Bulleted
-- List
+（Getting Started with Adafruit Circuit Playground Expressより）
 
-1. Numbered
-2. List
+#### 3. プログラムに使える言語について
 
-**Bold** and _Italic_ and `Code` text
+- Scratch - Javascript
+- Python (CircuitPython)
+- C++
 
-[Link](url) and ![Image](src)
-```
+#### 4. Makecode
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [Makecodeのページ](https://www.microsoft.com/en-us/makecode)
 
-### Jekyll Themes
+#### 5. わからないことは質問して解決しましょう
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/misson3/CPX101/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- 質問する前にしておくこと
+- forumを作りました
+  - ユーザー登録
+  - 投稿の練習
 
-### Support or Contact
+#### 6. Reference books
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Getting Started with Adafruit Circuit Playground Express](https://read.amazon.com/kp/embed?asin=B07H9J3G2P&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_-i8gFbFKKVSZX)
+- 初心者のためのCircuitPythonの本１
+  - [日本の販売サイト](https://booth.pm/ja/items/1575764)
+  - [Adafruitのサイト](https://www.adafruit.com/product/4024)
+
