@@ -5,7 +5,7 @@
 #### 1. Adafruit, open sourceについて
 
 - [Adafruitのページ](https://www.adafruit.com/)
-- - [AdafruitのLearningページ（Circuit Playground Expressで検索した結果）](https://learn.adafruit.com/search?q=circuit%2520playground%2520express)
+- [AdafruitのLearningページ（Circuit Playground Expressで検索した結果）](https://learn.adafruit.com/search?q=circuit%2520playground%2520express)
 
 #### 2. CPX microcontroller
 
