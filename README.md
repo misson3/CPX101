@@ -14,7 +14,9 @@
   - プロセッサーとメモリー
   - センサー
   - 入力装置
-  - 出力装置
+  - 出力装置/
+  
+  ![](./resources/pict/Annotation_2020-07-25_135948.jpg)
 
 #### 3. プログラムに使える言語について
 
@@ -25,6 +27,7 @@
 #### 4. Makecode
 
 - [Makecodeのページ](https://www.microsoft.com/en-us/makecode)
+（Getting Started with Adafruit Circuit Playground Expressより）
 
 #### 5. わからないことは質問して解決しましょう
 
