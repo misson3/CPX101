@@ -17,6 +17,7 @@
   - 出力装置/
   
   ![](./resources/pict/Annotation_2020-07-25_135948.jpg)
+  
   （Getting Started with Adafruit Circuit Playground Expressより）
 
 #### 3. プログラムに使える言語について
