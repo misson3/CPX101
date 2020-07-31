@@ -19,13 +19,13 @@
   
   （Getting Started with Adafruit Circuit Playground Expressより）
 
-#### 3. プログラムに使える言語
+#### 3. CPXの指令書（プログラム）に使える言語
 
 - Scratch - Javascript
 - Python ([CircuitPython](https://circuitpython.org/))
 - C++
 
-#### 4. Makecodeで遊んでみる
+#### 4. Makecodeで遊んでみる：Scratchで指令書を作る
 
 - [Makecodeのページ](https://www.microsoft.com/en-us/makecode)
 
