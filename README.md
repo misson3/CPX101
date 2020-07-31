@@ -10,7 +10,6 @@
 #### 2. CPX microcontroller
 
 - ボードの上にあるものたち
-
   - プロセッサーとメモリー
   - センサー
   - 入力装置
@@ -20,13 +19,13 @@
   
   （Getting Started with Adafruit Circuit Playground Expressより）
 
-#### 3. プログラムに使える言語について
+#### 3. プログラムに使える言語
 
 - Scratch - Javascript
-- Python (CircuitPython)
+- Python ([CircuitPython](https://circuitpython.org/))
 - C++
 
-#### 4. Makecode
+#### 4. Makecodeで遊んでみる
 
 - [Makecodeのページ](https://www.microsoft.com/en-us/makecode)
 
