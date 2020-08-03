@@ -47,20 +47,20 @@
 
 #### 1. downloadとインストール
 
-##### 1. Mu editor
+##### Mu editor
 [Mu editorのページ](https://codewith.mu)からdownloadリンクへ
 
-##### 2. Circuitpython
+##### Circuitpython
 [Circuitpythonのページ](https://circuitpython.org/)からdownloadリンクに進む
 
-##### 3. Circuitpython library bundle
+##### Circuitpython library bundle
 上のページにlibrary dwonloadへのリンクがある。Circuitpythonのバージョンにあったものを選ぶ
 
 #### 2. pythonでCPXをプログラムする
-##### 1. まずはLチカ
-##### 2. つぎに
-##### 3. もうひとつ
-##### 4. できればさらに
+##### まずはLチカ
+##### つぎに
+##### もうひとつ
+##### できればさらに
 
 ## 予告編
 
