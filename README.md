@@ -43,8 +43,26 @@
   - [日本の販売サイト](https://booth.pm/ja/items/1575764)
   - [Adafruitのサイト](https://www.adafruit.com/product/4024)
 
-## 予告編
+### CPX101-2: CircuitPython with Mu editor: August 08, 2020
 
-### CPX101-2: CircuitPython with Mu editor: Date TBD
+#### 1. downloadとインストール
+
+1. Mu editor
+[Mu editorのページ](https://codewith.mu)からdownloadリンクへ
+
+2. Circuitpython
+[Circuitpythonのページ](https://circuitpython.org/)からdownloadリンクに進む
+
+3. Circuitpython library bundle
+上のページにlibrary dwonloadへのリンクがある。Circuitpythonのバージョンにあったものを選ぶ
+
+#### 2. pythonでCPXをプログラムする
+
+1. まずはLチカ
+2. つぎに
+3. もうひとつ
+4. できればさらに
+
+## 予告編
 
 ### CPX101-3: C++ with Arduino IDE: Date TBD
