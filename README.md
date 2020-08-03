@@ -51,12 +51,14 @@
 
 ##### Mu editor
 [Mu editorのページ](https://codewith.mu)からdownloadリンクへ
+WindowsとMac、別々に説明します。
 
 ##### Circuitpython
 [Circuitpythonのページ](https://circuitpython.org/)からdownloadリンクに進む
+バージョンがいくつかあります。どれを使うかを説明します。
 
 ##### Circuitpython library bundle
-上のページにlibrary dwonloadへのリンクがある。Circuitpythonのバージョンにあったものを選ぶ
+上のページにlibrary dwonloadへのリンクがあります。Circuitpythonのバージョンにあったものを選びます。
 
 #### 2. pythonでCPXをプログラムする
 ##### まずはLチカ
