@@ -43,6 +43,8 @@
   - [日本の販売サイト](https://booth.pm/ja/items/1575764)
   - [Adafruitのサイト](https://www.adafruit.com/product/4024)
 
+---
+
 ### CPX101-2: CircuitPython with Mu editor: August 08, 2020
 
 #### 1. downloadとインストール
