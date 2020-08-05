@@ -69,14 +69,15 @@ WindowsとMac、別々に説明します。
 ##### できればさらに
 
 #### 3. Learning resources
-Core ElectronicsのYoubube
+##### Core ElectronicsのYoubube
 - [Circuit Playground Express Workshop for Educators and Beginners](https://www.youtube.com/playlist?list=PLPK2l9Knytg4DJXeM5Jg-xgEH8RYkLuPg)
 
 Play listになっています。Makecodeでの説明です。使っているのはScratchです。
+
 Circuitpythonはこちら。
 
 - [Intro to CircuitPython with Adafruit Circuit Playground Express](https://www.youtube.com/watch?v=TIcq6sr7EmY&t=536s)
-[Core Electronicsのchannel]にを開いてCircuitpythonで検索してみてください。いろいろ出てきます。Microbitを使ってものもあります。
+[Core Electronicsのchannel](https://www.youtube.com/channel/UCp5ShPYJvi2EA4hLUERa86w)を開いてCircuitpythonで検索してみてください。いろいろ出てきます。Microbitを使ってものもあります。
 
 
 ## 予告編
