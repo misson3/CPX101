@@ -78,7 +78,7 @@ Circuitpythonはこちら。
 
 - [Intro to CircuitPython with Adafruit Circuit Playground Express](https://www.youtube.com/watch?v=TIcq6sr7EmY&t=536s)
 
-[Core Electronicsのchannel](https://www.youtube.com/channel/UCp5ShPYJvi2EA4hLUERa86w)を開いてCircuitpythonで検索してみてください。ほかにもいろいろ出てきます。Microbitを使ってものもあります。
+[Core Electronicsのchannel](https://www.youtube.com/channel/UCp5ShPYJvi2EA4hLUERa86w)を開いてCircuitpythonで検索してみてください。ほかにもいろいろ出てきます。Microbitを使ったものもあります。
 
 
 ## 予告編
