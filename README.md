@@ -54,6 +54,8 @@
 
 WindowsとMac、別々に説明します。
 
+[Mu EditorのGitHub page](https://github.com/mu-editor/mu)
+
 ##### Circuitpython
 [Circuitpythonのページ](https://circuitpython.org/)からdownloadリンクに進む
 
