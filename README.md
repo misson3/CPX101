@@ -66,9 +66,9 @@ WindowsとMac、別々に説明します。
 
 #### 2. pythonでCPXをプログラムする
 ##### まずはLチカ
-##### つぎに
-##### もうひとつ
-##### できればさらに
+##### つぎにNeoPixelチカチカチカ...
+##### motion sensorの値をリアルタイムに表示してみる
+##### motion sensorマウス
 
 #### 3. Learning resources
 ##### Core ElectronicsのYoubube
