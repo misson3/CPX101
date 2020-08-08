@@ -66,9 +66,16 @@ WindowsとMac、別々に説明します。
 
 #### 2. pythonでCPXをプログラムする
 ##### まずはLチカ
+[1_blink-LED.py](https://github.com/misson3/CPX101/blob/master/CPX101-2/1_blink-LED.py)
+
 ##### つぎにNeoPixelチカチカチカ...
+[2_NeoPixel-test.py](https://github.com/misson3/CPX101/blob/master/CPX101-2/2_NeoPixel-test.py)
+
 ##### motion sensorの値をリアルタイムに表示してみる
+[3_read-accelerometer.py](https://github.com/misson3/CPX101/blob/master/CPX101-2/3_read-accelerometer.py)
+
 ##### motion sensorマウス
+[4_tilt-mouse.py](https://github.com/misson3/CPX101/blob/master/CPX101-2/4_tilt-mouse.py)
 
 #### 3. Learning resources
 ##### Core ElectronicsのYoubube
