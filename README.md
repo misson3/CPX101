@@ -45,7 +45,7 @@
 
 ---
 
-### CPX101-2: CircuitPython with Mu editor: August 08, 2020
+### CPX101-2: CircuitPython with Mu editor: August 08, 15 2020
 
 #### 1. downloadとインストール
 
