@@ -92,6 +92,7 @@ Circuitpythonはこちら。
 
 ### CPX101-2-extra: コードを２つ: August 16, 2020
 CPX101-2でcircuitpythonでコードを書いて走らせることができるようになりました。さらに２つコード例を作りましたので、自分の手で打ち込んで試してみてください。
+###### library bundleをすべてCPXにコピーしていない場合は、[INSTRUCTION.md](https://github.com/misson3/CPX101/blob/master/CPX101-2-extra/INSTRUCTION.md)を参照してください。
 
 ##### 赤外線リモコンからのシグナルパターンを読み取るプログラム
 [ir-remote-pulses.py](https://github.com/misson3/CPX101/blob/master/CPX101-2-extra/ir-remote-pulses.py)
