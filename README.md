@@ -96,9 +96,15 @@ CPX101-2でcircuitpythonでコードを書いて走らせることができる�
 
 ##### 赤外線リモコンからのシグナルパターンを読み取るプログラム
 [ir-remote-pulses.py](https://github.com/misson3/CPX101/blob/master/CPX101-2-extra/ir-remote-pulses.py)
+Mu editorのSerialコンソールをスタートして、CPX中央にある赤外線センサー（RXと表示あり）にむけて家にある赤外線リモコンのボタンを押してみてください。読み取った信号のパターンが数字でずらりと並びます。
 
 ##### CPXの傾きに応じて音程とスピードの違うアルペジオを鳴らすプログラム
 [tilt-arpeggiator.py](https://github.com/misson3/CPX101/blob/master/CPX101-2-extra/tilt-arpeggiator.py)
+まずはSerialとPlotterとを開けてみましょう。Serialコンソールにはすごい勢いで数字が流れていきます。これはaccelerometerからの読み取り値です（x軸方向のみ）。グラフとしても表示されます。x軸方向を上にしたり、下にしたりしてみましょう。光るneopixelの数が変わります。
+
+つぎに、Aボタンを押してみましょう。アルペジオが聞こえます。x軸方向の傾きを変えてAボタンを押してみましょう。音程とスピードが変わります。
+
+これは一回目に紹介した、初心者のためのCircuitPythonの本１にあったコードを改変したものです。さらに興味があるひとは本を購入して勉強してみてください。たくさんためになることが書いてあります。
 
 ## 予告編
 
