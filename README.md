@@ -90,6 +90,15 @@ Circuitpythonはこちら。
 [Core Electronicsのchannel](https://www.youtube.com/channel/UCp5ShPYJvi2EA4hLUERa86w)を開いてCircuitpythonで検索してみてください。ほかにもいろいろ出てきます。Microbitを使ったものもあります。
 
 
+### CPX101-2-extra: コードを２つ: August 16, 2020
+CPX101-2でcircuitpythonでコードを書いて走らせることができるようになりました。さらに２つコード例を作りましたので、自分の手で打ち込んで試してみてください。
+
+##### 赤外線リモコンからのシグナルパターンを読み取るプログラム
+[ir-remote-pulses.py](https://github.com/misson3/CPX101/blob/master/CPX101-2-extra/ir-remote-pulses.py)
+
+##### CPXの傾きに応じて音程とスピードの違うアルペジオを鳴らすプログラム
+[tilt-arpeggiator.py](https://github.com/misson3/CPX101/blob/master/CPX101-2-extra/tilt-arpeggiator.py)
+
 ## 予告編
 
 ### CPX101-3: C++ with Arduino IDE: Date TBD
